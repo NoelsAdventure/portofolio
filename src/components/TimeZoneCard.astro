@@ -1,37 +1,56 @@
 ---
-import { getCurrentTimeInItaly, formatTimeForItaly } from "../lib/helpers";
 import Card from "./Card/index.astro";
 ---
 
 <script>
-  import { onCleanup, onMount } from "solid-js";
-  import { formatTimeForItaly } from "../lib/helpers";
-
-  let interval: ReturnType<typeof setInterval>;
-
-  function updateClock() {
-    const timeDisplay = document.getElementById("timeDisplay");
+  function updateClocks() {
+    const visitorDisplay = document.getElementById("visitorTime");
+    const myDisplay = document.getElementById("myTime");
     const now = new Date();
 
-    if (timeDisplay) {
-      timeDisplay.textContent = formatTimeForItaly(now);
-      timeDisplay.setAttribute("datetime", now.toISOString());
+    if (visitorDisplay) {
+      // Shows the time exactly as it is on the visitor's computer
+      visitorDisplay.textContent = now.toLocaleTimeString('en-US', {
+        hour: 'numeric',
+        minute: '2-digit',
+        hour12: true
+      });
+    }
+
+    if (myDisplay) {
+      // Forces the display to show your local time in Texas (CST/CDT)
+      myDisplay.textContent = now.toLocaleTimeString('en-US', {
+        hour: 'numeric',
+        minute: '2-digit',
+        hour12: true,
+        timeZone: 'America/Chicago'
+      });
     }
   }
 
-  onMount(() => {
-    interval = setInterval(updateClock, 1000);
-  });
-
-  onCleanup(() => {
-    clearInterval(interval);
-  });
+  // Update every second
+  setInterval(updateClocks, 1000);
+  updateClocks(); // Initial call
 </script>
 
 <Card colSpan="lg:col-span-2" rowSpan="md:row-span-2" title="Time zone">
-  <time
-    class="text-2xl xl:text-5xl xl:whitespace-nowrap w-50 xl:w-100 h-[calc(100%-28px)] font-serif flex justify-center items-center"     datetime=""     id="timeDisplay"
-  >
-    {formatTimeForItaly(getCurrentTimeInItaly())}
-  </time>
+  <div class="flex flex-col justify-center h-full gap-4">
+    <div>
+      <p class="text-xs text-gray-500 font-sans">my time</p>
+      <div class="flex items-baseline gap-2">
+        <span id="myTime" class="text-2xl xl:text-5xl font-serif">--:-- --</span>
+        <span class="text-xs text-gray-500">CST</span>
+      </div>
+    </div>
+
+    <div>
+      <p class="text-xs text-gray-500 font-sans">your time</p>
+      <div class="flex items-baseline gap-2">
+        <span id="visitorTime" class="text-2xl xl:text-5xl font-serif">--:-- --</span>
+        <span class="text-xs text-gray-500 font-sans" id="visitorZone">
+          {Intl.DateTimeFormat().resolvedOptions().timeZoneName || 'Local'}
+        </span>
+      </div>
+    </div>
+  </div>
 </Card>
