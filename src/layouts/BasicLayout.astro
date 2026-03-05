@@ -12,7 +12,7 @@ interface Props {
 const { title, description, page, pubDate } = Astro.props;
 const image =
   page === "travel"
-    ? `${Astro.url.origin}/globe_preview.webp"`
+    ? `${Astro.url.origin}/globe_preview.webp`
     : `${Astro.url.origin}/og-image.png`;
 
 const schema =
@@ -20,23 +20,24 @@ const schema =
     ? {
         "@context": "http://schema.org",
         "@type": "Person",
-        name: "Gianmarco",
+        name: "Noel", // Changed from Gianmarco
         url: Astro.url.origin,
         sameAs: [LINKS.linkedin, LINKS.github],
-        image: `${Astro.url.origin}/og-image.png`,
-        jobTitle: "Freelance Frontend Developer",
+        image: `${Astro.url.origin}/me.png`, // Updated to your profile image
+        jobTitle: "PhD Researcher", // Updated for your PhD role
         worksFor: {
           "@type": "Organization",
-          name: "Self-Employed",
+          name: "University of Houston", // Added your university
           address: {
             "@type": "PostalAddress",
-            addressLocality: "Italy",
-            addressCountry: "IT",
+            addressLocality: "Sugar Land", // Updated to your location
+            addressRegion: "TX",
+            addressCountry: "US",
           },
         },
         nationality: {
           "@type": "Country",
-          name: "Italy",
+          name: "Indonesia", // Kept as Indonesia per your profile
         },
       }
     : {
@@ -51,16 +52,16 @@ const schema =
         image: `${Astro.url.origin}/og-image.png`, //TODO: dynamic
         author: {
           "@type": "Person",
-          name: "Gianmarco",
+          name: "Noel", // Changed from Immanuel
           url: Astro.url.origin,
           sameAs: [LINKS.linkedin, LINKS.github],
         },
         publisher: {
           "@type": "Organization",
-          name: "Gianmarco",
+          name: "Noel", // Changed from Immanuel
           logo: {
             "@type": "ImageObject",
-            url: `${Astro.url.origin}/og-image.png`,
+            url: `${Astro.url.origin}/me.png`,
           },
         },
         datePublished: pubDate || new Date().toISOString(),
