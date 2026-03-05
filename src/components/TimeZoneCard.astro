@@ -17,14 +17,29 @@ import Card from "./Card/index.astro";
       });
     }
 
+    // if (myDisplay) {
+    //   // Forces the display to show your local time in Texas (CST/CDT)
+    //   myDisplay.textContent = now.toLocaleTimeString('en-US', {
+    //     hour: 'numeric',
+    //     minute: '2-digit',
+    //     hour12: true,
+    //     timeZone: 'America/Chicago'
+    //   });
+    // }
     if (myDisplay) {
-      // Forces the display to show your local time in Texas (CST/CDT)
-      myDisplay.textContent = now.toLocaleTimeString('en-US', {
+      const options = {
         hour: 'numeric',
         minute: '2-digit',
         hour12: true,
-        timeZone: 'America/Chicago'
-      });
+        timeZone: 'America/Chicago',
+        timeZoneName: 'short' // This will return CST or CDT automatically
+      };
+      const parts = new Intl.DateTimeFormat('en-US', options).formatToParts(now);
+      const timeStr = parts.filter(p => p.type !== 'timeZoneName').map(p => p.value).join('').trim();
+      const zoneStr = parts.find(p => p.type === 'timeZoneName').value;
+      
+      myDisplay.textContent = timeStr;
+      document.getElementById("myZoneLabel").textContent = zoneStr;
     }
   }
 
@@ -33,7 +48,7 @@ import Card from "./Card/index.astro";
   updateClocks(); // Initial call
 </script>
 
-<Card colSpan="md:col-span-1" rowSpan="md:row-span-3" title="Time zone">
+<Card colSpan="md:col-span-1" rowSpan="md:row-span-2" title="Time zone">
   <div class="flex flex-col justify-center h-full gap-2 py-2">
     <div>
       <p class="text-[10px] text-gray-500 uppercase tracking-widest">my time</p>
