@@ -13,6 +13,21 @@ const photos = [
 
 <Card colSpan="md:col-span-1" rowSpan="md:row-span-6" title="About me">
   <div class="flex flex-col gap-4 h-full">
+    <div class="flex flex-col gap-2">
+      <div class="text-sm font-light">
+        <p>
+          Hi, I'm Noel, a PhD researcher at the University of Houston focused on perception-aware control for multi-UAV systems.
+        </p>
+      </div>
+      <p class="text-sm font-light">
+        I specialize in control and safety via Control-Barrier Functions (CBF). 
+        When I'm not in the lab, I'm usually exploring nature, playing drums, or building Gunpla.
+      </p>
+      <p class="text-sm font-light italic border-t border-white/10 pt-2">
+        "I believe in 2 things: Christ is King and AI will not replace humans."
+      </p>
+    </div>
+
     <div class="relative w-full overflow-hidden rounded-lg group">
       <div class="flex overflow-x-auto snap-x snap-mandatory scrollbar-hide gap-1">
         {photos.map((photo) => (
@@ -30,27 +45,6 @@ const photos = [
           <div class="w-1.5 h-1.5 rounded-full bg-white/50"></div>
         ))}
       </div>
-    </div>
-
-    <div class="flex flex-col gap-2">
-      <div class="text-sm font-light">
-        <p>
-          Hi, I'm **Noel**, a PhD researcher at the **University of Houston** focused on **perception-aware control** for multi-UAV systems.
-        </p>
-        <p class="mt-2">My core development includes:</p>
-        <ul class="list-disc list-inside">
-          <li>Quadrotor (Crazyflie)</li>
-          <li>Stewart Platform</li>
-          <li>Mobile Robots (ROS 2)</li>
-        </ul>
-      </div>
-      <p class="text-sm font-light">
-        I specialize in control and safety via **Control-Barrier Functions (CBF)**. 
-        When I'm not in the lab, I'm usually exploring nature, playing drums, or building **Gunpla**.
-      </p>
-      <p class="text-sm font-light italic border-t border-white/10 pt-2">
-        "I believe in 2 things: Christ is King and AI will not replace humans."
-      </p>
     </div>
   </div>
 </Card>
