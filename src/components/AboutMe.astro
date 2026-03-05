@@ -1,14 +1,5 @@
 ---
 import Card from "./Card/index.astro";
-import { Image } from "astro:assets";
-
-// Import your images from your local assets folder
-// You can add more from your Bokan-Kepulauan folder!
-const photos = [
-  { src: "/me.webp", alt: "Zion Mountains" },
-  { src: "/me.png", alt: "Robotics Research" },
-  { src: "/preview.png", alt: "Gunpla Build" },
-];
 ---
 
 <Card colSpan="md:col-span-1" rowSpan="md:row-span-6" title="About me">
@@ -20,42 +11,64 @@ const photos = [
         </p>
       </div>
       <p class="text-sm font-light">
-        I specialize in control and robot safety. 
+        I specialize in control and robot safety.
         When I'm not in the lab, I'm usually exploring nature, playing drums, or eating.
       </p>
+      <p class="text-sm font-light">
+        I believe in 2 things: Christ is King and AI won't replace humans.
+      </p>
       <p class="text-sm font-light italic border-t border-white/10 pt-2">
-        "I believe in 2 things: Christ is King and AI won't replace humans."
+        My proudest photos
       </p>
     </div>
 
-    <div class="relative w-full overflow-hidden rounded-lg group">
-      <div class="flex overflow-x-auto snap-x snap-mandatory scrollbar-hide gap-1">
-        {photos.map((photo) => (
-          <div class="min-w-full snap-center aspect-video bg-gray-800">
-            <img 
-              src={photo.src} 
-              alt={photo.alt} 
-              class="w-full h-full object-cover pointer-events-none"
-            />
-          </div>
-        ))}
+    <div class="relative w-full group">
+      <div 
+        id="photo-slider"
+        class="flex overflow-x-auto snap-x snap-mandatory scrollbar-hide gap-0 rounded-lg aspect-[4/3]"
+      >
+        <div class="min-w-full snap-center bg-gray-800">
+          <img src="/me.webp" alt="Zion Mountains" class="w-full h-full object-cover pointer-events-none" />
+        </div>
+        <div class="min-w-full snap-center bg-gray-800">
+          <img src="/me.png" alt="Robotics Research" class="w-full h-full object-cover pointer-events-none" />
+        </div>
+        <div class="min-w-full snap-center bg-gray-800">
+          <img src="/preview.png" alt="Gunpla Build" class="w-full h-full object-cover pointer-events-none" />
+        </div>
       </div>
-      <div class="absolute bottom-2 left-1/2 -translate-x-1/2 flex gap-1">
-        {photos.map((_) => (
-          <div class="w-1.5 h-1.5 rounded-full bg-white/50"></div>
-        ))}
-      </div>
+
+      <button 
+        id="prev-btn"
+        class="absolute left-2 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/80 text-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+      </button>
+      <button 
+        id="next-btn"
+        class="absolute right-2 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/80 text-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+      </button>
     </div>
   </div>
 </Card>
 
+<script>
+  const slider = document.getElementById('photo-slider');
+  const nextBtn = document.getElementById('next-btn');
+  const prevBtn = document.getElementById('prev-btn');
+
+  nextBtn?.addEventListener('click', () => {
+    slider?.scrollBy({ left: slider.clientWidth, behavior: 'smooth' });
+  });
+
+  prevBtn?.addEventListener('click', () => {
+    slider?.scrollBy({ left: -slider.clientWidth, behavior: 'smooth' });
+  });
+</script>
+
 <style>
-  /* Hides scrollbar but allows sliding */
-  .scrollbar-hide::-webkit-scrollbar {
-    display: none;
-  }
-  .scrollbar-hide {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
+  .scrollbar-hide::-webkit-scrollbar { display: none; }
+  .scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
 </style>
