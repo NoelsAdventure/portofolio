@@ -17,8 +17,8 @@ export default defineConfig({
     sitemap(),
     robotsTxt({
       sitemap: [
-        "https://gianmarcocavallo.com/sitemap-index.xml",
-        "https://gianmarcocavallo.com/sitemap-0.xml",
+        "https://noelsadventure.my.id/sitemap-index.xml",
+        "https://noelsadventure.my.id/sitemap-0.xml",
       ],
     }),
     solidJs(),
