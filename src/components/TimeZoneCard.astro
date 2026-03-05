@@ -9,6 +9,7 @@ import Card from "./Card/index.astro";
     const now = new Date();
 
     if (visitorDisplay) {
+      // Shows the time exactly as it is on the visitor's computer
       visitorDisplay.textContent = now.toLocaleTimeString('en-US', {
         hour: 'numeric',
         minute: '2-digit',
@@ -17,7 +18,7 @@ import Card from "./Card/index.astro";
     }
 
     if (myDisplay) {
-      // Correctly set to your location in Sugar Land, TX
+      // Forces the display to show your local time in Texas (CST/CDT)
       myDisplay.textContent = now.toLocaleTimeString('en-US', {
         hour: 'numeric',
         minute: '2-digit',
@@ -27,26 +28,27 @@ import Card from "./Card/index.astro";
     }
   }
 
+  // Update every second
   setInterval(updateClocks, 1000);
-  updateClocks(); 
+  updateClocks(); // Initial call
 </script>
 
 <Card colSpan="lg:col-span-2" rowSpan="md:row-span-2" title="Time zone">
   <div class="flex flex-col justify-center h-full gap-4">
     <div>
-      <p class="text-xs text-gray-500">my time</p>
+      <p class="text-xs text-gray-500 font-sans">my time</p>
       <div class="flex items-baseline gap-2">
-        <span id="myTime" class="text-2xl xl:text-5xl font-bold">--:-- --</span>
+        <span id="myTime" class="text-2xl xl:text-5xl font-serif">--:-- --</span>
         <span class="text-xs text-gray-500">CST</span>
       </div>
     </div>
 
     <div>
-      <p class="text-xs text-gray-500">your time</p>
+      <p class="text-xs text-gray-500 font-sans">your time</p>
       <div class="flex items-baseline gap-2">
-        <span id="visitorTime" class="text-2xl xl:text-5xl font-bold">--:-- --</span>
-        <span class="text-xs text-gray-500" id="visitorZone">
-          {Intl.DateTimeFormat().resolvedOptions().timeZone || 'Local'}
+        <span id="visitorTime" class="text-2xl xl:text-5xl font-serif">--:-- --</span>
+        <span class="text-xs text-gray-500 font-sans" id="visitorZone">
+          {Intl.DateTimeFormat().resolvedOptions().timeZoneName || 'Local'}
         </span>
       </div>
     </div>
