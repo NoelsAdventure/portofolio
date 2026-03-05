@@ -73,7 +73,7 @@ const posts = (await getCollection("blog"))?.sort(
       rowSpan="md:row-span-3 flex gap-1"
       title="Blog"
     >
-      <!-- <div class="flex flex-col gap-1">
+      <div class="flex flex-col gap-1">
         {
           posts?.slice(0, 3).map((post) => (
             // <a
@@ -97,7 +97,7 @@ const posts = (await getCollection("blog"))?.sort(
             // </a>
           ))
         }
-      </div> -->
+      </div>
     </Card>
     <Now />
     <Card colSpan="md:col-span-1" rowSpan="md:row-span-1">
