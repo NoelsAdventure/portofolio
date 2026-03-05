@@ -5,7 +5,8 @@ export const LINKS = {
   discord: "https://discordapp.com/users/163300027618295808",
   dribble: "https://dribbble.com/Ladvace_Jace",
   email: "immanuel.raynaldo.s@gmail.com<",
-  instagram: "https://www.instagram.com/immanuelraynaldo/"
+  instagram: "https://www.instagram.com/immanuelraynaldo/",
+  lqr_quadrotor: "https://github.com/NoelsAdventure/LQR_quadrotor"
 };
 
 export const loaderAnimation = [
