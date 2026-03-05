@@ -6,7 +6,8 @@ export const LINKS = {
   dribble: "https://dribbble.com/Ladvace_Jace",
   email: "immanuel.raynaldo.s@gmail.com<",
   instagram: "https://www.instagram.com/immanuelraynaldo/",
-  lqr_quadrotor: "https://github.com/NoelsAdventure/LQR_quadrotor"
+  lqr_quadrotor: "https://github.com/NoelsAdventure/LQR_quadrotor",
+  googlescholar: "https://scholar.google.com/citations?user=6KEyA1kAAAAJ&hl=en"
 };
 
 export const loaderAnimation = [
