@@ -20,24 +20,24 @@ const schema =
     ? {
         "@context": "http://schema.org",
         "@type": "Person",
-        name: "Noel", 
+        name: "Noel", // Changed from 
         url: Astro.url.origin,
         sameAs: [LINKS.linkedin, LINKS.github],
-        image: `${Astro.url.origin}/me.png`, 
-        jobTitle: "PhD Researcher", 
+        image: `${Astro.url.origin}/me.png`, // Updated to your profile image
+        jobTitle: "PhD Researcher", // Updated for your PhD role
         worksFor: {
           "@type": "Organization",
-          name: "University of Houston", 
+          name: "University of Houston", // Added your university
           address: {
             "@type": "PostalAddress",
-            addressLocality: "Sugar Land", 
+            addressLocality: "Sugar Land", // Updated to your location
             addressRegion: "TX",
             addressCountry: "US",
           },
         },
         nationality: {
           "@type": "Country",
-          name: "Indonesia", 
+          name: "Indonesia", // Kept as Indonesia per your profile
         },
       }
     : {
@@ -49,16 +49,16 @@ const schema =
         },
         headline: title || title,
         description: description || title,
-        image: `${Astro.url.origin}/og-image.png`,
+        image: `${Astro.url.origin}/og-image.png`, //TODO: dynamic
         author: {
           "@type": "Person",
-          name: "Noel",
+          name: "Noel", // Changed from Immanuel
           url: Astro.url.origin,
           sameAs: [LINKS.linkedin, LINKS.github],
         },
         publisher: {
           "@type": "Organization",
-          name: "Noel",
+          name: "Noel", // Changed from Immanuel
           logo: {
             "@type": "ImageObject",
             url: `${Astro.url.origin}/me.png`,
@@ -79,30 +79,37 @@ const schema =
     <title>{title}</title>
     <meta content={description} name="description" />
     <meta content="index, follow" name="robots" />
+    <!-- Basic OG tags for sharing your website's content on platforms like Facebook and LinkedIn -->
     <meta content={title} property="og:title" />
     <meta content={description} property="og:description" />
     <meta content="website" property="og:type" />
     <meta content={Astro.url.origin} property="og:url" />
-    <meta content={image || `${Astro.url.origin}/og-image.png`} property="og:image" />
+    <meta
+      content={image || `${Astro.url.origin}/og-image.png`}
+      property="og:image"
+    />
+    <!-- Basic Twitter Card tags -->
     <meta content="summary_large_image" name="twitter:card" />
     <meta content={title} name="twitter:title" />
     <meta content={description} name="twitter:description" />
-    <meta content={image || `${Astro.url.origin}/og-image.png`} name="twitter:image" />
+    <meta
+      content={image || `${Astro.url.origin}/og-image.png`}
+      name="twitter:image"
+    />
 
     <link href="https://cdn.fontshare.com" rel="preconnect" />
     <link href={Astro.url.href} rel="canonical" />
-    <script is:inline set:html={JSON.stringify(schema)} type="application/ld+json" />
+    <script
+      is:inline
+      set:html={JSON.stringify(schema)}
+      type="application/ld+json"
+    />
   </head>
-  <body class="bg-[#0a0a0a] min-h-screen flex flex-col justify-center items-center relative overflow-x-hidden">
-    
-    <div class="grid-background"></div>
-    
-    <div class="grid-glow"></div>
-
+  <body
+    class="bg-darkslate-700 md:h-screen flex flex-col justify-center items-center"
+  >
     <slot name="loader" />
-    <main class="relative z-10 w-full max-w-6xl mx-auto px-4">
-      <slot />
-    </main>
+    <slot />
   </body>
 </html>
 
@@ -110,77 +117,39 @@ const schema =
   @font-face {
     font-family: "CabinetGrotesk";
     src: url("/fonts/CabinetGrotesk-Variable.ttf") format("truetype-variations");
-    font-weight: 100 1000;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
+    font-weight: 100 1000;
   }
   @font-face {
     font-family: "Satoshi";
     src: url("/fonts/Satoshi-Variable.ttf") format("truetype-variations");
-    font-weight: 100 1000;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
+    font-weight: 100 1000;
   }
 
   body {
     margin: 0;
     font-family: "Satoshi", sans-serif;
     -webkit-font-smoothing: antialiased;
-    color: white;
   }
 
-  /* Grid Logic */
-  .grid-background {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 0;
-    background-image: 
-      linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
-      linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
-    background-size: 44px 44px;
-    pointer-events: none;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Cabinet Grotesk", sans-serif;
   }
-
-  /* Radial glow to make the grid fade toward the edges */
-  .grid-glow {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 1;
-    background: radial-gradient(circle at 50% 50%, transparent 10%, rgba(10, 10, 10, 0.8) 100%);
-    pointer-events: none;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "CabinetGrotesk", sans-serif;
-  }
-
   p {
     font-family: "Satoshi";
   }
 
   b {
     font-weight: 700 !important;
-  }
-
-  /* Smooth scroll for the whole page */
-  html {
-    scroll-behavior: smooth;
-  }
-
-  ::-webkit-scrollbar {
-    width: 6px;
-  }
-  ::-webkit-scrollbar-track {
-    background: #0a0a0a;
-  }
-  ::-webkit-scrollbar-thumb {
-    background: #2d2d2d;
-    border-radius: 10px;
   }
 </style>
