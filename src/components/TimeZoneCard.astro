@@ -36,10 +36,13 @@ import Card from "./Card/index.astro";
       };
       const parts = new Intl.DateTimeFormat('en-US', options).formatToParts(now);
       const timeStr = parts.filter(p => p.type !== 'timeZoneName').map(p => p.value).join('').trim();
-      const zoneStr = parts.find(p => p.type === 'timeZoneName').value;
+      const zoneStr = parts.find(p => p.type === 'timeZoneName')?.value || 'CST';
       
       myDisplay.textContent = timeStr;
-      document.getElementById("myZoneLabel").textContent = zoneStr;
+      const myZoneLabel = document.getElementById("myZoneLabel");
+      if (myZoneLabel) {
+        myZoneLabel.textContent = zoneStr;
+      }
     }
   }
 
@@ -54,7 +57,7 @@ import Card from "./Card/index.astro";
       <p class="text-[10px] text-gray-500 uppercase tracking-widest">my time</p>
       <div class="flex items-baseline gap-1">
         <span id="myTime" class="text-xl xl:text-2xl font-bold whitespace-nowrap">--:-- --</span>
-        <span class="text-[10px] text-gray-500">CST</span>
+        <span class="text-[10px] text-gray-500" id="myZoneLabel">CST</span>
       </div>
     </div>
 
