@@ -1,30 +1,43 @@
 ---
+import { getCollection } from "astro:content";
 import Layout from "../../layouts/Layout.astro";
-import ProjectRow from "../../components/project/ProjectRow.astro";
-// Assuming you create a 'projects' collection, or just use a local array for now
-const projects = [
-  {
-    title: "RTFM: Real-Time Frame Model",
-    authors: "Noel with collaborators at World Labs",
-    venue: "Blog Post, 2025",
-    description: "A real-time, auto-regressive diffusion model renders persistent 3D worlds on a single GPU.",
-    image: "/images/rtfm-thumb.jpg",
-    projectUrl: "#"
-  },
-  // Add more here...
-];
+import PostRow from "../../components/Project/ProjectRow.astro";
+
+const posts = (await getCollection("blog"))?.sort(
+  (blogEntryA, blogEntryB) =>
+    (blogEntryB.data.pubDate || new Date()).getTime() -
+    (blogEntryA.data.pubDate || new Date()).getTime()
+);
 ---
 
-<Layout title="Noel - Projects" description="List of research and projects">
-  <main class="w-screen min-h-screen flex flex-col max-w-3xl mx-auto p-8">
-    <a href="/" class="text-white bg-neutral-900 hover:bg-neutral-800 px-4 py-2 mb-8 border border-neutral-600 rounded-lg w-fit">Back</a>
-    
-    <h1 class="text-4xl font-bold mb-10 text-neutral-100">Research & Projects</h1>
-    
-    <div class="w-full">
-      {projects.map((proj) => (
-        <ProjectRow {...proj} />
-      ))}
-    </div>
+<script>
+  import { animate, type AnimationSequence } from "motion";
+  import { loaderAnimation } from "../../lib/constants";
+
+  const sequence = [loaderAnimation];
+
+  animate(sequence as AnimationSequence);
+</script>
+
+<Layout
+  description="Robotics engineer that loves to explore things"   title="Noel - Blog"
+>
+  <main
+    class="w-screen h-screen flex flex-col justify-start items-start max-w-3xl mx-auto p-8"
+  >
+    <a
+      class="text-white bg-neutral-900 hover:bg-neutral-800 px-4 py-2 mb-8 border-1 border-solid border-neutral-600 rounded-lg"       href="/"
+      >Back</a
+    >
+    <h1 class="text-4xl font-bold mb-4 text-neutral-100">Projects</h1>
+    <ul class="w-full">
+      {
+        posts?.map((post) => (
+          <PostRow
+            date={post.data.pubDate || new Date()}             id={post.id}             title={post.data.title || "No title"}
+          />
+        ))
+      }
+    </ul>
   </main>
 </Layout>
