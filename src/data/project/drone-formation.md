@@ -1,11 +1,9 @@
 ---
-title: "Perception-Aware Control for Leader-Follower Drone Formations"
+title: "3D Leader-Follower Formation Control"
 authors: "Noel, Bin Hu"
 pubDate: 2026-03-02
-venue: "University of Houston, 2026"
-description: "Researching 3D leader-follower formation (3D-LFF) using Control Barrier Functions (CBFs) to maintain camera field-of-view and perception safety."
-image: "/images/drone-research.png"
+venue: "University of Houston"
+description: "Researching perception-aware control using CBFs."
+image: "https://placehold.co/400x300"
 ---
-
-# Project Overview
-This research focuses on maintaining safety and visibility in drone swarms...
+Your research content here...
