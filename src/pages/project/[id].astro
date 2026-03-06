@@ -1,12 +1,12 @@
 ---
 import { getEntry, render } from "astro:content";
 import { getCollection } from "astro:content";
-import LayoutBlogPost from "../../layouts/LayoutProject.astro";
+import LayoutProject from "../../layouts/LayoutProject.astro";
 
 export const prerender = true;
 
 export async function getStaticPaths() {
-  return (await getCollection("blog")).map(({ id }) => ({
+  return (await getCollection("project")).map(({ id }) => ({
     params: { id: id as string },
   }));
 }
@@ -17,7 +17,7 @@ if (!id) {
   throw new Error("id is missing");
 }
 
-const entry = await getEntry("blog", id);
+const entry = await getEntry("project", id);
 
 if (!entry) {
   return Astro.redirect("/404");
@@ -26,11 +26,11 @@ if (!entry) {
 const { Content, remarkPluginFrontmatter } = await render(entry);
 ---
 
-<LayoutBlogPost
-  description={entry.data.description!}   minutesRead={remarkPluginFrontmatter.minutesRead}   pubDate={entry.data.pubDate!}   title={`${entry.data.title} | Gianmarco Cavallo`}   url={`blog/${entry.id}`}
+<LayoutProject
+  description={entry.data.description!}   minutesRead={remarkPluginFrontmatter.minutesRead}   pubDate={entry.data.pubDate!}   title={`${entry.data.title} | Noel`}   url={`project/${entry.id}`}
 >
   <Content />
-</LayoutBlogPost>
+</LayoutProject>
 
 <style is:global>
   h1,
