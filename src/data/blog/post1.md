@@ -6,68 +6,88 @@ category: "expedition"
 tags:
   - Diving
 ---
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
-3 new guy training to survive in the harsh blue sea at Sekotong island.
+
+<img src="\images\Sekotong\1.webp" alt="Training at Sekotong" width="100%" />
+
+*Three new guys training to survive the harsh blue sea of Sekotong Island.*
 
 # Sekotong Sea Diving  
 ## Sekotong, West Lombok, 2023
 
-*Immanuel Raynaldo (M 2023 898 ATM)*  
-*Gabriel Genigno Pranoto (M 2022 891 ATM)*  
-*Tio Patrick Wicaksono (M 2022 897 ATM)*  
-*Esyela Fransisca Artarumiris ()*
+> **The Expedition Team:**
+> * Immanuel Raynaldo (M 2023 898 ATM)  
+> * Gabriel Genigno Pranoto (M 2022 891 ATM)  
+> * Tio Patrick Wicaksono (M 2022 897 ATM)  
+> * Esyela Fransisca Artarumiris ()
 
 ---
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
 
-Sekotong is one of the regions in West Lombok Regency, consisting of several islands such as Gili Gede, Gili Rengit, Gili Layar, and others. Although it is not as famous as its neighbor, Gili Matra, Sekotong also offers an underwater charm that is no less beautiful than that region.
+Sekotong is a hidden gem tucked away in the West Lombok Regency, an archipelago made up of several small islands including Gili Gede, Gili Rengit, and Gili Layar. While it might not share the mainstream fame of its neighbor, Gili Matra, Sekotong offers an underwater charm that is just as breathtaking. 
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+With its smooth, white sandy beaches and thriving coral reefs, it’s a region bursting with marine potential.
 
-Finally, the awaited moment arrived — our try-out day. After completing our sea training at Gili Matra, we immediately headed to Gili Gede, where we were picked up by Pak Ajis, a diving instructor as well as the boat captain who would accompany us exploring Sekotong with his small boat. Upon arriving at Gili Gede, we were welcomed by Bu Elis with a warm smile, the owner of the place where we would stay during our time on the island. We spent the first day taking care of permits with the village chief and building a camp craft for our accommodation.
+<img src="\images\Sekotong\2.webp" alt="Arriving at Gili Gede" width="250" />
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+### Arrival at Gili Gede
+The highly anticipated moment finally arrived: our try-out day. Fresh off completing our sea training at Gili Matra, we headed straight for Gili Gede. We were picked up by Pak Ajis, our diving instructor and the captain of the small boat that would serve as our vessel for exploring Sekotong. 
 
-As an archipelagic region, Sekotong has great potential for marine tourism, such as beautiful coral reefs and smooth white sandy beaches. Finally, the time came for us to start diving. On the first day of diving, we explored the area around Gili Layar. Each designated dive spot had its own unique terrain. Gili Gede Wall had a steep wall terrain, causing strong underwater currents, but it offered a diversity of marine life to enjoy. Sandy Slope, on the other hand, had a sloping terrain composed mostly of sand, resulting in poor visibility, but many micro marine species could still be observed.  
+Upon arriving, we were greeted with a warm smile by Bu Elis, our host for the trip. We spent that first day sorting out official permits with the village chief and building up our camp craft to serve as our base of operations.
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+<img src="\images\Sekotong\3.webp" alt="Diving Gili Layar" width="250" />
 
-Between dives, we stopped for a while at Gili Layar to wait for our surface interval while having lunch on the island. However, we were disturbed by a big cow, which Tio managed to chase away using a branch.
+### Day 1: Steep Walls and Stubborn Cows at Gili Layar
+When the time finally came to dive, we set our sights on the waters around **Gili Layar**. Every dive spot had its own distinct personality:
+*   **Gili Gede Wall:** Featured a steep, dramatic drop-off. The terrain created strong underwater currents, but rewarded us with an incredible diversity of marine life.
+*   **Sandy Slope:** A gentle, sandy incline. The visibility here was poor, but it was a treasure trove for spotting fascinating micro marine species.
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+<img src="\images\Sekotong\4.webp" alt="Surface Interval" width="250" />
 
-On the second day of diving, we explored the area around Gili Rengit. In the morning, dark clouds covered Lombok, making us worried about continuing the dive. After collecting our tanks and gearing up, the clouds disappeared, although the wind kept blowing strongly, causing high waves.
+Between dives, we docked at Gili Layar for our surface interval and some lunch. The peace was briefly interrupted by a massive cow that decided to crash our break—luckily, Tio stepped up and managed to chase it away using a tree branch!
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+<img src="\images\Sekotong\5.webp" alt="Rough seas at Gili Rengit" width="250" />
 
-While waiting for our diving buddies, we usually monitored bubbles while joking around and eating biscuits given by Kak Ajis. However, 
-due to the unfavorable weather, bubbles became difficult to spot, and we often lost their direction.
+### Day 2: Battling the Elements at Gili Rengit
+On the second day, we moved our expedition to **Gili Rengit**. The morning brought dark, looming clouds over Lombok, leaving us anxious about whether we could safely dive. We collected our tanks and geared up. Eventually, the clouds cleared, but the wind continued to howl, whipping up high, choppy waves.
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+<img src="\images\Sekotong\6.webp" alt="Spotting bubbles" width="250" />
 
-That night, we said our goodbyes to Bu Elis and the local men who liked to hang around at her place. From there, we learned stories about the activities and livelihoods of the people of Gili Gede. Many residents of Gili Gede are compressor divers, where they dive using heavy stones to reach the bottom while searching for clams and ascend by being pulled up with their hoses, and Pak Ajis was one of the former divers. Many of them end up paralyzed or even die due to decompression sickness.
+While waiting for our diving buddies to surface, we typically monitored their bubbles, joking around and snacking on biscuits from Kak Ajis. But with the rough weather and turbulent water, the bubbles became incredibly difficult to track, and we frequently lost their direction in the waves.
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+<img src="\images\Sekotong\7.webp" alt="Night at Bu Elis's" width="250" />
 
-The next day marked the last day of our dives. We only managed to do two dives because there was an issue with tank refilling, forcing us to wait until noon. Despite several mishaps during the dives, such as forgetting to bring the measuring tape and the SMB getting tangled during mark deployment, we felt that the last two dive spots were the most interesting ones during our time in Sekotong. At each site, there were unique dancing fish, and on the final dive, we encountered two different species of moray eels.
+### The Sobering Reality of Compressor Divers
+That evening, we hung out with Bu Elis and the local men who frequented her place. It was here that we learned the real, often harsh stories of life on Gili Gede. 
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+We discovered that many locals work as "compressor divers." To harvest clams, they use heavy stones to sink themselves rapidly to the ocean floor, breathing through long plastic hoses, and are literally hauled back to the surface when they finish. Pak Ajis himself was a former compressor diver. It's a highly dangerous livelihood; many divers end up paralyzed or even lose their lives to severe decompression sickness.
 
-We spent the last night on Lontar Island (Monkey Island) because there were only monkeys there. We built a camp craft, lit a bonfire, and slept on the beach under the stars while thinking about what would happen the next day.  
+<img src="\images\Sekotong\8.webp" alt="Final dives" width="250" />
 
-<img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
+### Day 3: Hiccups and Hidden Treasures
+The final day brought a few logistical headaches. A delay in tank refilling meant we only managed to squeeze in two dives, and we had to wait until noon to start. We also ran into a few operational mishaps—like forgetting the measuring tape and hopelessly tangling the SMB during mark deployment.
 
-The following day, we boarded our beloved boat for the last time, enjoying the beautiful morning sunrise at sea, and were picked up by a Hiace to be taken to Lombok International Airport to board a flight to Soekarno-Hatta Airport. In Jakarta, we stopped by a diving equipment store to fix the leaking regulator hose, had KFC for a meal, and then continued our journey back to Bandung for equipment cleaning and evaluation.
+Despite the chaotic start, these last two sites were arguably the most spectacular of the whole trip. We were surrounded by uniquely "dancing" fish, and on our very last descent, we came face-to-face with two different species of moray eels. 
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="\images\Sekotong\1.webp" alt="Photo 1" width="250" />
-  <img src="\images\Sekotong\2.webp" alt="Photo 2" width="250" />
-  <img src="\images\Sekotong\3.webp" alt="Photo 3" width="250" />
-  <img src="\images\Sekotong\4.webp" alt="Photo 4" width="250" />
-  <img src="\images\Sekotong\5.webp" alt="Photo 5" width="250" />
-  <img src="\images\Sekotong\6.webp" alt="Photo 6" width="250" />
-  <img src="\images\Sekotong\7.webp" alt="Photo 7" width="250" />
-  <img src="\images\Sekotong\8.webp" alt="Photo 8" width="250" />
-  <img src="\images\Sekotong\9.webp" alt="Photo 9" width="250" />
-  <img src="\images\Sekotong\10.webp" alt="Photo 10" width="250" />
+<img src="\images\Sekotong\9.webp" alt="Monkey Island" width="250" />
+
+### Under the Stars on Monkey Island
+For our final night, we relocated to Lontar Island (aptly nicknamed Monkey Island, as macaques are its only residents). We built our camp craft, sparked up a bonfire, and slept directly on the beach. Falling asleep under a canopy of stars, we reflected on the expedition and what the journey home would bring.
+
+The next morning, we boarded our beloved boat one last time, taking in a stunning sunrise over the open sea. A Hiace van picked us up and drove us to Lombok International Airport for our flight back to Jakarta. 
+
+Once in Soekarno-Hatta, it was back to reality: a quick pitstop at a dive shop to fix a leaking regulator hose, a celebratory meal at KFC, and finally, the drive back to Bandung to clean our gear and evaluate a successful, unforgettable expedition.
+
+<br>
+
+### Expedition Gallery
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
+  <img src="\images\Sekotong\1.webp" alt="Sekotong Expedition 1" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\2.webp" alt="Sekotong Expedition 2" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\3.webp" alt="Sekotong Expedition 3" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\4.webp" alt="Sekotong Expedition 4" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\5.webp" alt="Sekotong Expedition 5" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\6.webp" alt="Sekotong Expedition 6" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\7.webp" alt="Sekotong Expedition 7" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\8.webp" alt="Sekotong Expedition 8" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\9.webp" alt="Sekotong Expedition 9" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\10.webp" alt="Sekotong Expedition 10" width="200" style="border-radius: 8px;" />
 </div>
