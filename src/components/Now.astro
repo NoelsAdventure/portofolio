@@ -4,13 +4,16 @@ import Pulse from "./Pulse.astro";
 ---
 
 <Card colSpan="md:col-span-1" rowSpan="md:row-span-1">
-  <!-- Added h-full to ensure it fills the card height and items-center for vertical centering -->
-  <div class="flex justify-between w-full items-center h-full mb-2">
-    <!-- Added items-center to center the text elements horizontally -->
-    <div class="flex flex-col w-full items-center">
+  <div class="flex justify-between items-center w-full h-full">
+    {/* Removed items-center from this column to allow left alignment */}
+    <div class="flex flex-col">
       <div class="flex items-baseline gap-2">
         <h2 class="text-xl font-bold">Now</h2>
-        <a href="https://sive.rs/nowff" target="_blank" class="text-xs text-gray-500 hover:underline">
+        <a 
+          href="https://sive.rs/nowff" 
+          target="_blank" 
+          class="text-xs text-gray-500 hover:underline"
+        >
           what's that?
         </a>
       </div>
