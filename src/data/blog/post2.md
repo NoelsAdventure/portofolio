@@ -7,59 +7,89 @@ tags:
   - Diving
 ---
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
-3 new guy training to survive in the harsh blue sea at Sekotong island.
+<img src="\images\Bokan-Kepulauan\1.webp" alt="Training at Bokan Kepulauan" width="100%" />
+
+*Three new guys training to survive the harsh blue sea of Bokan Kepulauan.*
 
 # Bokan Kepulauan Sea Diving  
 ## Bokan Kepulauan, Central Sulawesi, 2023
 
-*Immanuel Raynaldo (M 2023 898 ATM)*  
-*Gabriel Genigno Pranoto (M 2022 891 ATM)*  
-*Tio Patrick Wicaksono (M 2022 897 ATM)*  
-*Esyela Fransisca Artarumiris ()*
+> **The Expedition Team:**
+> * Immanuel Raynaldo (M 2023 898 ATM)  
+> * Gabriel Genigno Pranoto (M 2022 891 ATM)  
+> * Tio Patrick Wicaksono (M 2022 897 ATM)  
+> * Esyela Fransisca Artarumiris ()
 
-“Bokan Kaleng-Kaleng”
+*"Bokan Kaleng-Kaleng"*
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
+---
 
-Bokan Kepulauan, a regency in Central Sulawesi, consists of several islands scattered across different villages. Located quite far from Sulawesi Island, our journey began from Bandung by Hiace to Jakarta, then from Jakarta by plane to Luwuk. Upon arriving at Luwuk port, we were greeted by an endemic fish there, the Banggai Cardinalfish. Unfortunately, we missed the ferry because it departed earlier than usual. As a result, we spent the time shopping for food supplies and exploring the land before staying overnight at the PLN service house. The following day, we witnessed a labor protest while trying to buy tickets. The protest was related to the relocation of container loading and unloading activities, which could lead to job losses for hundreds of workers.
+<img src="\images\Bokan-Kepulauan\2.webp" alt="Arriving at Luwuk" width="250" />
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
+### The Long Journey East
+Bokan Kepulauan is a remote regency in Central Sulawesi, an archipelago scattered across multiple villages and located far from the Sulawesi mainland. Getting there was an expedition in itself: we traveled from Bandung by Hiace to Jakarta, then caught a flight to Luwuk. 
 
-Our journey from Luwuk to Banggai Laut was by wooden boat and took seven hours. Along the way, we talked with Pak Rahmat, one of the officers from the Environmental Service, who was willing to lend us diving tanks and a compressor. Upon arrival, we were warmly welcomed by several PLN officers and met with Pak Erdi, the Head of the Banggai Laut Basarnas Post. We stayed for two nights at the Basarnas Office to arrange permits and borrowing of equipment from the relevant agencies. The trip from Banggai Laut to Bungin Village took eight hours, and when we arrived, we immediately met and requested permission from the District Secretary, who was also the owner of our accommodation, as well as the Village Head.  
+We were welcomed at the Luwuk port by the sight of the endemic Banggai Cardinalfish. However, our travel luck quickly ran out when we missed our ferry, which had departed earlier than scheduled. We made the most of the delay by stocking up on food supplies, exploring the mainland, and spending the night at a PLN (state electricity) service house. The next morning, our ticket-buying mission was interrupted by a massive labor protest over the relocation of container loading activities, a move threatening hundreds of local jobs.
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
+<img src="\images\Bokan-Kepulauan\3.webp" alt="Wooden Boat Journey" width="250" />
 
-Geographically, Bokan Kepulauan is located between the Banda Sea and the Maluku Sea, making it a migration route for large marine animals such as sperm whales and dolphins in the eastern region. One of the well-known tourist destinations in Bokan Kepulauan is Mbuang-Mbuang Island, which offers the beauty of a jellyfish lake and the stunning view of Popinsi Hill. Due to the high sea waves caused by eastern winds during July to September, we focused our diving activities around Bungin, which also served as our basecamp. The trip to the farthest dive spot from there took about two hours. Electricity was only available every other day from 17:00 to 01:00, and the signal was unreliable, with the only cell tower located in Bungin Village and even then inconsistent.
+### Wooden Boats and Bureaucracy
+The next leg of our journey—from Luwuk to Banggai Laut—was a seven-hour trek on a traditional wooden boat. Onboard, we struck up a conversation with Pak Rahmat from the Environmental Service, who generously agreed to lend us diving tanks and a compressor. 
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
+Upon arriving in Banggai Laut, we were warmly received by several PLN officers and Pak Erdi, the Head of the Banggai Laut Basarnas (Search and Rescue) Post. We spent two nights at the Basarnas Office securing permits and borrowing necessary gear. From there, it was another grueling eight-hour trip to Bungin Village. Once we hit land, we immediately sought out the Village Head and the District Secretary—who also happened to be the owner of our accommodation—to request permission for our stay.
 
-During six days of diving activities, we successfully explored 20 dive sites. The underwater visibility was generally good, with many dive spots offering horizontal visibility of more than 20 meters. The only exception occurred when we dived in a blue hole at a depth of 11 meters, which was surrounded by mangroves, causing the water to be murky and green, triggering feelings of anxiety and tension during the dive.
+<img src="\images\Bokan-Kepulauan\4.webp" alt="Bokan Kepulauan Seas" width="250" />
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
+### Off the Grid in the Coral Triangle
+Geographically sandwiched between the Banda Sea and the Maluku Sea, Bokan Kepulauan serves as a major eastern migration route for massive marine mammals like sperm whales and dolphins. The area is famous for destinations like Mbuang-Mbuang Island, known for its jellyfish lake and the sweeping views from Popinsi Hill. 
 
-The Coral Triangle indeed offers an extraordinary experience, especially in Bokan Kepulauan with its incredibly dense coral reefs. The majority of the dive sites there have excellent coral conditions, although some areas have been affected by fish bombing. Even though we dived in spots with strong currents — some forcing us to drift as far as one kilometer — encounters with large marine animals were rare. Most of our diving experiences were dominated by schools of fish of various types in large numbers.  
+However, rough seas whipped up by eastern winds (typical from July to September) forced us to keep our diving activities centered around our basecamp in Bungin. Even then, the farthest dive spot was a two-hour boat ride away. Life in Bungin was truly off the grid: electricity only ran every other day from 5:00 PM to 1:00 AM, and cell service was a game of chance, relying on a single, highly inconsistent tower.
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
+<img src="\images\Bokan-Kepulauan\5.webp" alt="Diving the Blue Hole" width="250" />
 
-After staying a night at the District Secretary's service house, we had to move to the home of Fajar’s family because the house would be used by the regent, who was coming to inaugurate the ferry port. During our rest day, we spent time with Fajar’s family, did manual freediving at night to catch fish, celebrated Efas’ birthday, cooked papeda together, and visited the plantation owned by Fajar’s mother’s father. The taste of young coconut there was far more special compared to what we usually encountered; it tasted slightly fizzy and sweet, as if it had been mixed with sugar and Sprite. Before starting our final dives, we had the chance to meet the regent, although we were surprised to find out later that we had actually been talking and taking photos with his aide, who pretended to be the regent, without realizing it until someone told us at the end of the session.
+### 20 Dives and the Murky Blue Hole
+Despite the logistical hurdles, we successfully logged 20 dive sites over six days. Underwater visibility was generally spectacular, frequently exceeding 20 meters horizontally. 
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
+There was only one spooky exception: a blue hole dive at a depth of 11 meters. Completely surrounded by dense mangroves, the water here was murky and tinged an eerie green, making for a tense and anxiety-inducing dive.
 
-On our last day in Bokan Kepulauan, we decided to attend mass in Keak Village. In this village, all of the residents are Catholic and Christian, unlike Bungin Village, where the entire population is Muslim. This difference was noticeable in the pets we saw — shifting from mostly cats to dogs. Even though there was no permanent priest residing at the Church of Divine Mercy, the mass was conducted by a deacon. However, this did not diminish the spirit of the congregation, which was beautifully reflected in their heartfelt hymns and praises.
+<img src="\images\Bokan-Kepulauan\6.webp" alt="Dense Coral Reefs" width="250" />
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Photo 1" width="250" />
+Being in the Coral Triangle guarantees an extraordinary underwater experience, and Bokan Kepulauan delivered with its incredibly dense, vibrant reefs. While we sadly noticed some areas damaged by historical fish bombing, the majority of the coral was in pristine condition. 
 
-Without realizing it, 12 days had passed. The bond we built with the people of Banggai Laut will remain a precious and unforgettable memory for us. We are grateful for all the assistance and knowledge that was shared with us, especially to Fajar’s family — Pak Fajar, Bu Fajar, and Fajar himself — for becoming our closest family during our time there.
+We frequently battled strong currents—at one point drifting for an entire kilometer—but massive pelagic encounters were surprisingly rare. Instead, our dives were dominated by breathtaking, swirling schools of fish in staggering numbers.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="\images\Bokan-Kepulauan\2.jpg" alt="Photo 2" width="250" />
-  <img src="\images\Bokan-Kepulauan\3.webp" alt="Photo 3" width="250" />
-  <img src="\images\Bokan-Kepulauan\4.webp" alt="Photo 4" width="250" />
-  <img src="\images\Bokan-Kepulauan\5.webp" alt="Photo 5" width="250" />
-  <img src="\images\Bokan-Kepulauan\6.webp" alt="Photo 6" width="250" />
-  <img src="\images\Bokan-Kepulauan\7.webp" alt="Photo 7" width="250" />
-  <img src="\images\Bokan-Kepulauan\8.webp" alt="Photo 8" width="250" />
-  <img src="\images\Bokan-Kepulauan\9.webp" alt="Photo 9" width="250" />
-  <img src="\images\Bokan-Kepulauan\10.webp" alt="Photo 10" width="250" />
+<img src="\images\Bokan-Kepulauan\7.webp" alt="Fajar's Family Home" width="250" />
+
+### Papeda, Fizzy Coconuts, and the "Fake" Regent
+Mid-expedition, we had to vacate the District Secretary's service house because the Regent was arriving to inaugurate a new ferry port. We relocated to the home of a local named Fajar, whose family took us in as their own. 
+
+During our rest day, we bonded with Fajar’s family. We tried our hands at manual night freediving to catch fish, celebrated Efas’s birthday, cooked traditional papeda together, and visited a plantation owned by Fajar’s grandfather. The young coconuts there were unlike anything we'd ever tasted—naturally sweet and slightly carbonated, like coconut water mixed with Sprite. 
+
+We even had a brush with local politics. Before our final dives, we had a lengthy chat and took photos with the Regent. It wasn't until the session ended that someone casually mentioned we had actually been talking to his *aide*, who had been happily pretending to be the Regent the entire time!
+
+<img src="\images\Bokan-Kepulauan\8.webp" alt="Keak Village" width="250" />
+
+### Sunday Mass in Keak Village
+On our final day, we traveled to Keak Village to attend Sunday mass. The cultural contrast was immediate: unlike the entirely Muslim population of Bungin, Keak is a Christian and Catholic community. You could even see the shift in the village streets, where roaming dogs replaced the cats we were used to seeing in Bungin. 
+
+Though the Church of Divine Mercy lacked a permanent resident priest, the mass was beautifully led by a deacon. The absence of a priest didn't dampen the congregation's spirit in the slightest, echoing through the church in their heartfelt hymns and praises.
+
+<img src="\images\Bokan-Kepulauan\9.webp" alt="Saying Goodbye" width="250" />
+
+### Saying Goodbye
+Before we knew it, 12 days had slipped by. The bonds we forged with the people of Banggai Laut will remain some of our most treasured memories. We left with immense gratitude for the local knowledge shared with us, and a special thank you to Fajar’s family—Pak Fajar, Bu Fajar, and Fajar himself—for becoming our home away from home in the middle of the sea.
+
+<br>
+
+### Expedition Gallery
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
+  <img src="\images\Bokan-Kepulauan\1.webp" alt="Bokan Kepulauan Expedition 1" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\2.webp" alt="Bokan Kepulauan Expedition 2" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\3.webp" alt="Bokan Kepulauan Expedition 3" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\5.webp" alt="Bokan Kepulauan Expedition 5" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\6.webp" alt="Bokan Kepulauan Expedition 6" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\7.webp" alt="Bokan Kepulauan Expedition 7" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\8.webp" alt="Bokan Kepulauan Expedition 8" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\9.webp" alt="Bokan Kepulauan Expedition 9" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\10.webp" alt="Bokan Kepulauan Expedition 10" width="200" style="border-radius: 8px;" />
 </div>
