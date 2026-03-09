@@ -20,58 +20,39 @@ import Card from "./Card/index.astro";
         My proudest photos
       </p>
     </div>
-    
+
     <div class="relative w-full group">
       <div 
         id="photo-slider"
-        class="flex overflow-x-auto snap-x snap-mandatory scrollbar-hide gap-0 rounded-lg"
+        class="flex overflow-x-auto snap-x snap-mandatory scrollbar-hide gap-0 rounded-lg aspect-[4/3]"
       >
-        <!-- Slide 1 -->
-        <div class="min-w-full snap-center bg-gray-900 shrink-0 flex flex-col">
-          <div class="aspect-[4/3] w-full overflow-hidden rounded-t-lg">
-            <img src="/images/Best Photos/1.webp" alt="Clownfish" class="w-full h-full object-cover pointer-events-none" />
-          </div>
-          <div class="py-3 px-4 text-center text-white text-sm font-medium bg-gray-900 rounded-b-lg">
+        <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
+          <img src="/images/Best Photos/1.webp" alt="Clownfish and its anemone" class="w-full h-full object-cover pointer-events-none" />
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
             Clownfish chilling in its anemone
           </div>
         </div>
-
-        <!-- Slide 2 -->
-        <div class="min-w-full snap-center bg-gray-900 shrink-0 flex flex-col">
-          <div class="aspect-[4/3] w-full overflow-hidden rounded-t-lg">
-            <img src="/images/Best Photos/2.webp" alt="Green turtle" class="w-full h-full object-cover pointer-events-none" />
-          </div>
-          <div class="py-3 px-4 text-center text-white text-sm font-medium bg-gray-900 rounded-b-lg">
+        <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
+          <img src="/images/Best Photos/2.webp" alt="Green turtle" class="w-full h-full object-cover pointer-events-none" />
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
             A not-so-'Green' sea turtle
           </div>
         </div>
-
-        <!-- Slide 3 -->
-        <div class="min-w-full snap-center bg-gray-900 shrink-0 flex flex-col">
-          <div class="aspect-[4/3] w-full overflow-hidden rounded-t-lg">
-            <img src="/images/Best Photos/3.webp" alt="Lionfish" class="w-full h-full object-cover pointer-events-none" />
-          </div>
-          <div class="py-3 px-4 text-center text-white text-sm font-medium bg-gray-900 rounded-b-lg">
+        <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
+          <img src="/images/Best Photos/3.webp" alt="Camouflaging lionfish" class="w-full h-full object-cover pointer-events-none" />
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
             A camouflaging lionfish
           </div>
         </div>
-
-        <!-- Slide 4 -->
-        <div class="min-w-full snap-center bg-gray-900 shrink-0 flex flex-col">
-          <div class="aspect-[4/3] w-full overflow-hidden rounded-t-lg">
-            <img src="/images/Best Photos/4.webp" alt="Diving buddy" class="w-full h-full object-cover pointer-events-none" />
-          </div>
-          <div class="py-3 px-4 text-center text-white text-sm font-medium bg-gray-900 rounded-b-lg">
+        <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
+          <img src="/images/Best Photos/4.webp" alt="My diving buddy" class="w-full h-full object-cover pointer-events-none" />
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
             My diving buddy
           </div>
         </div>
-
-        <!-- Slide 5 -->
-        <div class="min-w-full snap-center bg-gray-900 shrink-0 flex flex-col">
-          <div class="aspect-[4/3] w-full overflow-hidden rounded-t-lg">
-            <img src="/images/Best Photos/5.webp" alt="Coral" class="w-full h-full object-cover pointer-events-none" />
-          </div>
-          <div class="py-3 px-4 text-center text-white text-sm font-medium bg-gray-900 rounded-b-lg">
+        <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
+          <img src="/images/Best Photos/5.webp" alt="Coral triangle" class="w-full h-full object-cover pointer-events-none" />
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
             The vibrant coral triangle
           </div>
         </div>
