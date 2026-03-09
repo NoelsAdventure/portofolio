@@ -15,7 +15,7 @@ My first USA road trip started on Christmas Day. Our first stop was **Buc-ee's**
 
 
 
-<div class="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
   <img src="/images/Zion/V.jpeg" alt="Christmas Day" width="200" style="border-radius: 8px;" />
   <img src="/images/Zion/X.jpeg" alt="Buc-ees Statue" width="200" style="border-radius: 8px;" />
   <img src="/images/Zion/W.jpeg" alt="Texas Giant Bull" width="200" style="border-radius: 8px;" />
@@ -26,7 +26,7 @@ My first USA road trip started on Christmas Day. Our first stop was **Buc-ee's**
 ### Route 66 and the Casino Night
 Another wishlist item checked: **Route 66**. We spent the night at a casino in Gallup, where we managed to turn $4 into $0.25. We ended up sleeping in the car on a freezing night to save time for the drive ahead.
 
-<div class="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;4">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;4">
   <img src="/images/Zion/R.jpeg" alt="Watchman Campground" width="200" style="border-radius: 8px;" />
   <img src="/images/Zion/S.jpeg" alt="Night Sky" width="200" style="border-radius: 8px;" />
   <img src="/images/Zion/watchman-trail.jpeg" alt="Watchman Trail" width="200" style="border-radius: 8px;" />
@@ -42,7 +42,7 @@ Finally, we arrived at **Zion National Park**. Our first hike was the Canyon Ove
 
 We set up our tent at the **Watchman Campground** and chased the sunset at the Watchman Trail. Our diet consisted mostly of hotdogs and macaroni and cheese (until Indira couldn't take it anymore!). At night, the sky was so clear we could see the stars with our naked eyes.
 
-<div class="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
   <img src="/images/Zion/P.jpeg" alt="Watchman Campground" width="200" style="border-radius: 8px;" />
   <img src="/images/Zion/9.jpeg" alt="Night Sky" width="200" style="border-radius: 8px;" />
   <img src="/images/Zion/1.jpeg" alt="Watchman Trail" width="200" style="border-radius: 8px;" />
@@ -50,7 +50,7 @@ We set up our tent at the **Watchman Campground** and chased the sunset at the W
 
 On the second day, we hiked The Narrows and headed toward Angel's Landing. We didn't get the permit to go to the very top, but we were welcomed by a beautiful rainbow and picked up some souvenirs.
 
-<div class="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
   <img src="/images/Zion/8.jpeg" alt="Watchman Campground" width="200" style="border-radius: 8px;" />
   <img src="/images/Zion/F.jpeg" alt="Night Sky" width="200" style="border-radius: 8px;" />
   <img src="/images/Zion/H.jpeg" alt="Watchman Trail" width="200" style="border-radius: 8px;" />
