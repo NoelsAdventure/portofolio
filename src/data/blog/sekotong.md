@@ -15,10 +15,11 @@ tags:
 ## Sekotong, West Lombok, 2023
 
 > **The Expedition Team:**
-> * Immanuel Raynaldo (M 2023 898 ATM)  
-> * Gabriel Genigno Pranoto (M 2022 891 ATM)  
-> * Tio Patrick Wicaksono (M 2022 897 ATM)  
-> * Esyela Fransisca Artarumiris ()
+> * Immanuel Raynaldo 
+> * Gabriel Genigno Pranoto 
+> * Tio Patrick Wicaksono 
+> * Esyela Fransisca Artarumiris 
+> * Alberta Gracia
 
 ---
 
