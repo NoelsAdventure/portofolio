@@ -7,7 +7,11 @@ tags:
   - Diving
 ---
 
-<img src="\images\Sekotong\1.webp" alt="Training at Sekotong" width="100%" />
+<align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=YWsQ6OWG3YE" frameborder="0" allowfullscreen></iframe>
+</p>
+
+<!-- <img src="\images\Sekotong\1.webp" alt="Training at Sekotong" width="100%" /> -->
 
 <!-- *Three new guys training to survive the harsh blue sea of Sekotong Island.* -->
 
