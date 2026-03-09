@@ -1,8 +1,8 @@
 ---
-title: "Christmas Mountaineering & Caving, USA"
+title: "Lebaran Travel, Australia"
 description: "this is a post example"
 pubDate: 2025-12-25
-category: "travel"
+category: "Travel"
 password: "noel"
 ---
 
