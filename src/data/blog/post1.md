@@ -80,8 +80,7 @@ Once in Soekarno-Hatta, it was back to reality: a quick pitstop at a dive shop t
 
 ### Expedition Gallery
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
-  <img src="\images\Sekotong\1.webp" alt="Sekotong Expedition 1" width="200" style="border-radius: 8px;" />
-  <img src="\images\Sekotong\2.webp" alt="Sekotong Expedition 2" width="200" style="border-radius: 8px;" />
+  <img src="\images\Sekotong\2.jpg" alt="Sekotong Expedition 2" width="200" style="border-radius: 8px;" />
   <img src="\images\Sekotong\3.webp" alt="Sekotong Expedition 3" width="200" style="border-radius: 8px;" />
   <img src="\images\Sekotong\4.webp" alt="Sekotong Expedition 4" width="200" style="border-radius: 8px;" />
   <img src="\images\Sekotong\5.webp" alt="Sekotong Expedition 5" width="200" style="border-radius: 8px;" />
