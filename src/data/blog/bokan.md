@@ -9,9 +9,8 @@ tags:
 
 <div style="text-align: center;">
   <iframe 
-    width="100%" 
+    style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
     src="https://www.youtube.com/embed/Szb5F2AT8M0" 
-    frameborder="0" 
     allowfullscreen>
   </iframe>
 </div>
