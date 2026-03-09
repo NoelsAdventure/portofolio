@@ -14,9 +14,9 @@ draft: false
 My first USA road trip started on Christmas Day. Our first stop was **Buc-ee's**, which has been on my wishlist for a long time. We tried the "all you can eat" approach, but I think we ended up eating the same portion as normal because everything is just bigger in Texas!
 
 <div class="grid grid-cols-3 gap-2 my-4">
-  <img src="/images/Roadtrip/V.jpeg" alt="Christmas Day" class="rounded-lg object-cover aspect-square" />
-  <img src="/images/Roadtrip/X.jpeg" alt="Buc-ees Statue" class="rounded-lg object-cover aspect-square" />
-  <img src="/images/Roadtrip/W.jpeg" alt="Texas Giant Bull" class="rounded-lg object-cover aspect-square" />
+  <img src="/images/Zion/V.jpeg" alt="Christmas Day" class="rounded-lg object-cover aspect-square" />
+  <img src="/images/Zion/X.jpeg" alt="Buc-ees Statue" class="rounded-lg object-cover aspect-square" />
+  <img src="/images/Zion/W.jpeg" alt="Texas Giant Bull" class="rounded-lg object-cover aspect-square" />
 </div>
 <p class="text-sm text-gray-400 italic text-center">3000 miles in 6 days?? letsgo!!</p>
 
@@ -26,9 +26,9 @@ My first USA road trip started on Christmas Day. Our first stop was **Buc-ee's**
 Another wishlist item checked: **Route 66**. We spent the night at a casino in Gallup, where we managed to turn $4 into $0.25. We ended up sleeping in the car on a freezing night to save time for the drive ahead.
 
 <div class="grid grid-cols-3 gap-2 my-4">
-  <img src="/images/Roadtrip/R.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
-  <img src="/images/Roadtrip/S.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
-  <img src="/images/Roadtrip/watchman-trail.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/R.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/S.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/watchman-trail.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
 </div>
 ---
 
@@ -42,17 +42,17 @@ Finally, we arrived at **Zion National Park**. Our first hike was the Canyon Ove
 We set up our tent at the **Watchman Campground** and chased the sunset at the Watchman Trail. Our diet consisted mostly of hotdogs and macaroni and cheese (until Indira couldn't take it anymore!). At night, the sky was so clear we could see the stars with our naked eyes.
 
 <div class="grid grid-cols-3 gap-2 my-4">
-  <img src="/images/Roadtrip/P.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
-  <img src="/images/Roadtrip/9.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
-  <img src="/images/Roadtrip/1.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/P.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/9.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/1.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
 </div>
 
 On the second day, we hiked The Narrows and headed toward Angel's Landing. We didn't get the permit to go to the very top, but we were welcomed by a beautiful rainbow and picked up some souvenirs.
 
 <div class="grid grid-cols-3 gap-2 my-4">
-  <img src="/images/Roadtrip/8.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
-  <img src="/images/Roadtrip/F.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
-  <img src="/images/Roadtrip/H.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/8.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/F.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Zion/H.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
 </div>
 
 ---
