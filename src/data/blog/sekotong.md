@@ -17,10 +17,6 @@ tags:
   </iframe>
 </div>
 
-<!-- <img src="\images\Sekotong\1.webp" alt="Training at Sekotong" width="100%" /> -->
-
-<!-- *Three new guys training to survive the harsh blue sea of Sekotong Island.* -->
-
 # Sekotong Sea Diving  
 ## Sekotong, West Lombok, 2023
 

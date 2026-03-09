@@ -7,9 +7,15 @@ tags:
   - Diving
 ---
 
-<img src="\images\Bokan-Kepulauan\10.webp" alt="Training at Bokan Kepulauan" width="100%" />
-
-*Three guys and 1 girl trying to survive the harsh blue sea of Bokan Kepulauan.*
+<div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/embed/Szb5F2AT8M0" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 # Bokan Kepulauan Sea Diving  
 ## Bokan Kepulauan, Central Sulawesi, 2023
@@ -52,7 +58,7 @@ Despite the logistical hurdles, we successfully logged 20 dive sites over six da
 
 There was only one spooky exception: a blue hole dive at a depth of 11 meters. Completely surrounded by dense mangroves, the water here was murky and tinged an eerie green, making for a tense and anxiety-inducing dive.
 
-<img src="\images\Bokan-Kepulauan\6.webp" alt="Dense Coral Reefs" width="250" />
+<img src="\images\Bokan-Kepulauan\610.webp" alt="Dense Coral Reefs" width="250" />
 
 Being in the Coral Triangle guarantees an extraordinary underwater experience, and Bokan Kepulauan delivered with its incredibly dense, vibrant reefs. While we sadly noticed some areas damaged by historical fish bombing, the majority of the coral was in pristine condition. 
 
