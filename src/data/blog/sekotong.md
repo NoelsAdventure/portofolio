@@ -9,7 +9,7 @@ tags:
 
 <img src="\images\Sekotong\1.webp" alt="Training at Sekotong" width="100%" />
 
-*Three new guys training to survive the harsh blue sea of Sekotong Island.*
+<!-- *Three new guys training to survive the harsh blue sea of Sekotong Island.* -->
 
 # Sekotong Sea Diving  
 ## Sekotong, West Lombok, 2023
@@ -27,21 +27,21 @@ Sekotong is a hidden gem tucked away in the West Lombok Regency, an archipelago 
 
 With its smooth, white sandy beaches and thriving coral reefs, it’s a region bursting with marine potential.
 
-<img src="\images\Sekotong\2.webp" alt="Arriving at Gili Gede" width="250" />
+<img src="\images\Sekotong\A.jpg" alt="Arriving at Gili Gede" width="250" />
 
 ### Arrival at Gili Gede
 The highly anticipated moment finally arrived: our try-out day. Fresh off completing our sea training at Gili Matra, we headed straight for Gili Gede. We were picked up by Pak Ajis, our diving instructor and the captain of the small boat that would serve as our vessel for exploring Sekotong. 
 
 Upon arriving, we were greeted with a warm smile by Bu Elis, our host for the trip. We spent that first day sorting out official permits with the village chief and building up our camp craft to serve as our base of operations.
 
-<img src="\images\Sekotong\3.webp" alt="Diving Gili Layar" width="250" />
+<img src="\images\Sekotong\4.webp" alt="Diving Gili Layar" width="250" />
 
 ### Day 1: Steep Walls and Stubborn Cows at Gili Layar
 When the time finally came to dive, we set our sights on the waters around **Gili Layar**. Every dive spot had its own distinct personality:
 *   **Gili Gede Wall:** Featured a steep, dramatic drop-off. The terrain created strong underwater currents, but rewarded us with an incredible diversity of marine life.
 *   **Sandy Slope:** A gentle, sandy incline. The visibility here was poor, but it was a treasure trove for spotting fascinating micro marine species.
 
-<img src="\images\Sekotong\4.webp" alt="Surface Interval" width="250" />
+<img src="\images\Sekotong\3.webp" alt="Surface Interval" width="250" />
 
 Between dives, we docked at Gili Layar for our surface interval and some lunch. The peace was briefly interrupted by a massive cow that decided to crash our break—luckily, Tio stepped up and managed to chase it away using a tree branch!
 
