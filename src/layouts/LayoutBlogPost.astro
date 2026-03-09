@@ -46,7 +46,7 @@ const { title, description, pubDate, minutesRead, url } = Astro.props;
   .three-gallery img {
     border-radius: 8px;
     object-fit: cover;
-    height: 200px; /* Optional: keeps all gallery images the same height */
+    height: auto !important; /* Optional: keeps all gallery images the same height */
     width: calc(33.33% - 10px) !important; /* Forces 3-column */
   }
 

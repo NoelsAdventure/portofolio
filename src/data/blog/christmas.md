@@ -9,12 +9,11 @@ draft: false
 
 
 <div style="text-align: center;">
-  <img src="/images/Zion/B.jpeg" alt="Buc-ee's and Texas stops" width="80%" style="border-radius: 8px;" />
+  <img src="/images/Zion/B.jpeg" alt="Buc-ee's and Texas stops" width="100%" style="border-radius: 8px;" />
 </div>
 ## 3000 Miles on 6 days?? Letsgo!!
 
 My first USA road trip started on Christmas Day. Our first stop was **Buc-ee's**, which has been on my wishlist for a long time. We tried the "all you can eat" approach, but I think we ended up eating the same portion as normal because everything is just bigger in Texas!
-
 
 
 <div class="three-gallery">
@@ -31,7 +30,6 @@ Another wishlist item checked: **Route 66**. We spent the night at a casino in G
 <div class="three-gallery">
   <img src="/images/Zion/R.jpeg" alt="Watchman Campground" />
   <img src="/images/Zion/S.jpeg" alt="Night Sky" />
-  <img src="/images/Zion/watchman-trail.jpeg" alt="Watchman Trail" />
 </div>
 ---
 
@@ -92,5 +90,5 @@ On the last day, we drove south to **Carlsbad Caverns**. It was absolutely mesme
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/Zion/T.jpeg" alt="Buc-ee's and Texas stops" width="80%" style="border-radius: 8px;" />
+  <img src="/images/Zion/T.jpeg" alt="Buc-ee's and Texas stops" width="100%" style="border-radius: 8px;" />
 </div>
