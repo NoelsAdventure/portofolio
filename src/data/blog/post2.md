@@ -86,7 +86,7 @@ Before we knew it, 12 days had slipped by. The bonds we forged with the people o
   <img src="\images\Bokan-Kepulauan\1.webp" alt="Bokan Kepulauan Expedition 1" width="200" style="border-radius: 8px;" />
   <img src="\images\Bokan-Kepulauan\2.webp" alt="Bokan Kepulauan Expedition 2" width="200" style="border-radius: 8px;" />
   <img src="\images\Bokan-Kepulauan\3.webp" alt="Bokan Kepulauan Expedition 3" width="200" style="border-radius: 8px;" />
-  <img src="\images\Bokan-Kepulauan\5.webp" alt="Bokan Kepulauan Expedition 5" width="200" style="border-radius: 8px;" />
+  <img src="\images\Bokan-Kepulauan\4.webp" alt="Bokan Kepulauan Expedition 4" width="200" style="border-radius: 8px;" />
   <img src="\images\Bokan-Kepulauan\6.webp" alt="Bokan Kepulauan Expedition 6" width="200" style="border-radius: 8px;" />
   <img src="\images\Bokan-Kepulauan\7.webp" alt="Bokan Kepulauan Expedition 7" width="200" style="border-radius: 8px;" />
   <img src="\images\Bokan-Kepulauan\8.webp" alt="Bokan Kepulauan Expedition 8" width="200" style="border-radius: 8px;" />
