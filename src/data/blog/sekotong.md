@@ -7,9 +7,15 @@ tags:
   - Diving
 ---
 
-<align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=huN0G6HEyAc" frameborder="0" allowfullscreen></iframe>
-</p>
+<div style="text-align: center;">
+  <iframe 
+    width="560" 
+    height="315" 
+    src="https://www.youtube.com/watch?v=YWsQ6OWG3YE" 
+    frameborder="0" 
+    allowfullscreen>
+  </iframe>
+</div>
 
 <!-- <img src="\images\Sekotong\1.webp" alt="Training at Sekotong" width="100%" /> -->
 
