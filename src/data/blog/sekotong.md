@@ -31,7 +31,7 @@ Sekotong is a hidden gem tucked away in the West Lombok Regency, an archipelago 
 
 With its smooth, white sandy beaches and thriving coral reefs, it’s a region bursting with marine potential.
 
-<img src="\images\Sekotong\A.jpg" alt="Arriving at Gili Gede" width="250" />
+<img src="\images\Sekotong\A.jpeg" alt="Arriving at Gili Gede" width="250" />
 
 ### Arrival at Gili Gede
 The highly anticipated moment finally arrived: our try-out day. Fresh off completing our sea training at Gili Matra, we headed straight for Gili Gede. We were picked up by Pak Ajis, our diving instructor and the captain of the small boat that would serve as our vessel for exploring Sekotong. 
