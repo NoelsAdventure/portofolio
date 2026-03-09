@@ -7,7 +7,7 @@ tags:
   - Diving
 ---
 
-<img src="\images\Bokan-Kepulauan\1.webp" alt="Training at Bokan Kepulauan" width="100%" />
+<img src="\images\Bokan-Kepulauan\10.webp" alt="Training at Bokan Kepulauan" width="100%" />
 
 *Three new guys training to survive the harsh blue sea of Bokan Kepulauan.*
 
