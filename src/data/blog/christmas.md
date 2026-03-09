@@ -6,13 +6,86 @@ category: "nature"
 draft: false
 ---
 
-# Hi there!
+<div style="text-align: center;">
+  <img src="/images/Zion/T.jpeg" alt="Buc-ee's and Texas stops" width="100%" />
+</div>
+## 3000 Miles on 6 days?? Letsgo!!
 
-This Markdown file creates a page at `your-domain.com/blog/post1/`
+My first USA road trip started on Christmas Day. Our first stop was **Buc-ee's**, which has been on my wishlist for a long time. We tried the "all you can eat" approach, but I think we ended up eating the same portion as normal because everything is just bigger in Texas!
 
-It probably isn't styled much, but Markdown does support:
+<div class="grid grid-cols-3 gap-2 my-4">
+  <img src="/images/Roadtrip/V.jpeg" alt="Christmas Day" class="rounded-lg object-cover aspect-square" />
+  <img src="/images/Roadtrip/X.jpeg" alt="Buc-ees Statue" class="rounded-lg object-cover aspect-square" />
+  <img src="/images/Roadtrip/W.jpeg" alt="Texas Giant Bull" class="rounded-lg object-cover aspect-square" />
+</div>
+<p class="text-sm text-gray-400 italic text-center">3000 miles in 6 days?? letsgo!!</p>
 
-- **bold** and _italics._
-- lists
-- [links](https://astro.build)
-- and more!
+---
+
+### Route 66 and the Casino Night
+Another wishlist item checked: **Route 66**. We spent the night at a casino in Gallup, where we managed to turn $4 into $0.25. We ended up sleeping in the car on a freezing night to save time for the drive ahead.
+
+<div class="grid grid-cols-3 gap-2 my-4">
+  <img src="/images/Roadtrip/R.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Roadtrip/S.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Roadtrip/watchman-trail.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
+</div>
+---
+
+### Zion National Park
+Finally, we arrived at **Zion National Park**. Our first hike was the Canyon Overlook. The views were incredible despite the misty weather.
+
+<div style="text-align: center;">
+  <img src="/images/Zion/E.jpeg" alt="Zion National Park" width="100%" />
+</div>
+
+We set up our tent at the **Watchman Campground** and chased the sunset at the Watchman Trail. Our diet consisted mostly of hotdogs and macaroni and cheese (until Indira couldn't take it anymore!). At night, the sky was so clear we could see the stars with our naked eyes.
+
+<div class="grid grid-cols-3 gap-2 my-4">
+  <img src="/images/Roadtrip/P.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Roadtrip/9.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Roadtrip/1.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
+</div>
+
+On the second day, we hiked The Narrows and headed toward Angel's Landing. We didn't get the permit to go to the very top, but we were welcomed by a beautiful rainbow and picked up some souvenirs.
+
+<div class="grid grid-cols-3 gap-2 my-4">
+  <img src="/images/Roadtrip/8.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Roadtrip/F.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
+  <img src="/images/Roadtrip/H.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
+</div>
+
+---
+
+### Craters and Canyons
+We visited **Horseshoe Bend** (very crowded with a "mid" view) and then went "alien hunting" at the **Meteor Crater**. It was created thousands of years ago and was even used to mine silicon. It is massive—literally the size of several football fields.
+
+<div style="text-align: center;">
+  <img src="/images/Zion/10.jpeg" alt="Meteor Crater" width="100%" />
+</div>
+
+---
+
+### Carlsbad Caverns
+On the last day, we drove south to **Carlsbad Caverns**. It was absolutely mesmerizing. The temperature inside is a constant 12°C, and the stalactites and stalagmites are unbelievable.
+
+<div style="text-align: center;">
+  <img src="/images/Zion/N.jpeg" alt="Carlsbad Caverns" width="100%" />
+</div>
+
+---
+
+### Expedition Gallery
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
+  <img src="\images\Zion\D.jpeg" alt="Bokan Kepulauan Expedition 1" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\4.jpeg" alt="Bokan Kepulauan Expedition 2" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\K.jpeg" alt="Bokan Kepulauan Expedition 3" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\K.jpeg" alt="Bokan Kepulauan Expedition 4" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\J.jpeg" alt="Bokan Kepulauan Expedition 6" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\12.jpeg" alt="Bokan Kepulauan Expedition 7" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\L.jpeg" alt="Bokan Kepulauan Expedition 8" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\X.jpeg" alt="Bokan Kepulauan Expedition 9" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\Z.jpeg" alt="Bokan Kepulauan Expedition 10" width="200" style="border-radius: 8px;" />
+</div>
+
+<img src="\images\Bokan-Kepulauan\B.jpeg" alt="Training at Bokan Kepulauan" width="100%" />
