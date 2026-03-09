@@ -1,8 +1,8 @@
 ---
-title: "Thousand Island, Indonesia"
+title: "Christmas Mountaineering & Caving, USA"
 description: "this is a post example"
 pubDate: 2023-01-21
-category: "expedition"
+category: "nature"
 draft: false
 ---
 

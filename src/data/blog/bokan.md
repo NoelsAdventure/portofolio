@@ -1,8 +1,8 @@
 ---
-title: 'Bokan Kepulauan, Indonesia'
+title: 'Bokan Kepulauan Diving, Indonesia'
 pubDate: 2023-08-23
 permalink: /posts/2023/08/Bokan-Kepulauan/
-category: "expedition"
+category: "nature"
 tags:
   - Diving
 ---
@@ -58,7 +58,7 @@ Despite the logistical hurdles, we successfully logged 20 dive sites over six da
 
 There was only one spooky exception: a blue hole dive at a depth of 11 meters. Completely surrounded by dense mangroves, the water here was murky and tinged an eerie green, making for a tense and anxiety-inducing dive.
 
-<img src="\images\Bokan-Kepulauan\610.webp" alt="Dense Coral Reefs" width="250" />
+<img src="\images\Bokan-Kepulauan\7.webp" alt="Dense Coral Reefs" width="250" />
 
 Being in the Coral Triangle guarantees an extraordinary underwater experience, and Bokan Kepulauan delivered with its incredibly dense, vibrant reefs. While we sadly noticed some areas damaged by historical fish bombing, the majority of the coral was in pristine condition. 
 

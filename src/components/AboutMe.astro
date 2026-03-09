@@ -4,6 +4,7 @@ import Card from "./Card/index.astro";
 
 <Card colSpan="md:col-span-1" rowSpan="md:row-span-6" title="About me">
   <div class="flex flex-col gap-4 h-full">
+    <!-- Text Content Section -->
     <div class="flex flex-col gap-2">
       <div class="text-sm font-light">
         <p>
@@ -21,55 +22,77 @@ import Card from "./Card/index.astro";
       </p>
     </div>
 
-
-    
+    <!-- Photo Slider Section -->
     <div class="relative w-full group">
+      <!-- Slider Container -->
       <div 
         id="photo-slider"
         class="flex overflow-x-auto snap-x snap-mandatory scrollbar-hide gap-0 rounded-lg aspect-[4/3]"
       >
+        <!-- Slide 1 -->
         <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
           <img src="/images/Best Photos/1.webp" alt="Clownfish and its anemone" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm">
             Clownfish and its anemone
           </div>
         </div>
+        <!-- Slide 2 -->
         <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
           <img src="/images/Best Photos/2.webp" alt="Green turtle" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm">
             A not-so-'Green' sea turtle
           </div>
         </div>
+        <!-- Slide 3 -->
         <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
           <img src="/images/Best Photos/3.webp" alt="Camouflaging lionfish" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm">
             A camouflaging lionfish
           </div>
         </div>
+        <!-- Slide 4 -->
         <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
           <img src="/images/Best Photos/4.webp" alt="My diving buddy" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm">
             My diving buddy
           </div>
         </div>
+        <!-- Slide 5 -->
         <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
           <img src="/images/Best Photos/5.webp" alt="Coral triangle" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm font-small">
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm">
             The vibrant coral triangle
           </div>
         </div>
+        <!-- Slide 6 -->
+        <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
+          <img src="/images/Best Photos/6.jpg" alt="Zion scenery" class="w-full h-full object-cover pointer-events-none" />
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm">
+            Zion scenery
+          </div>
+        </div>
+        <!-- Slide 7 -->
+        <div class="relative min-w-full snap-center bg-gray-800 shrink-0">
+          <img src="/images/Best Photos/7.jpg" alt="Carlsbad cavern" class="w-full h-full object-cover pointer-events-none" />
+          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-2 pt-5 text-white text-sm">
+            Carlsbad cavern
+          </div>
+        </div>
       </div>
-    </div>
 
+      <!-- Navigation Buttons (Now inside the group container) -->
       <button 
         id="prev-btn"
-        class="absolute left-2 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/80 text-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity"
+        class="absolute left-2 top-1/2 -translate-y-1/2 z-10 bg-black/50 hover:bg-black/80 text-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity"
+        aria-label="Previous photo"
       >
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
       </button>
+      
       <button 
         id="next-btn"
-        class="absolute right-2 top-1/2 -translate-y-1/2 bg-black/50 hover:bg-black/80 text-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity"
+        class="absolute right-2 top-1/2 -translate-y-1/2 z-10 bg-black/50 hover:bg-black/80 text-white p-1 rounded-full opacity-0 group-hover:opacity-100 transition-opacity"
+        aria-label="Next photo"
       >
         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
       </button>

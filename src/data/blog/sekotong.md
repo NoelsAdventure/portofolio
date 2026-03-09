@@ -1,8 +1,8 @@
 ---
-title: 'Sekotong, Indonesia'
+title: 'Sekotong, Indonesia Diving'
 pubDate: 2023-07-23
 permalink: /posts/2023/07/Sekotong/
-category: "expedition"
+category: "nature"
 tags:
   - Diving
 ---
