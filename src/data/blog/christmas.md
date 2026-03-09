@@ -24,7 +24,7 @@ My first USA road trip started on Christmas Day. Our first stop was **Buc-ee's**
 ---
 
 ### Route 66 and the Casino Night
-Another wishlist item checked: **Route 66**. We spent the night at a casino in Gallup, where we managed to turn $4 into $0.25. We ended up sleeping in the car on a freezing night to save time for the drive ahead.
+Another wishlist item checked: **Route 66**. We spent the night at a casino in Gallup, where we managed to turn $4 into $0.25. We ended up sleeping in the car on a freezing night to save money.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;4">
   <img src="/images/Zion/R.jpeg" alt="Watchman Campground" width="200" style="border-radius: 8px;" />
@@ -59,7 +59,7 @@ On the second day, we hiked The Narrows and headed toward Angel's Landing. We di
 ---
 
 ### Craters and Canyons
-We visited **Horseshoe Bend** (very crowded with a "mid" view) and then went "alien hunting" at the **Meteor Crater**. It was created thousands of years ago and was even used to mine silicon. It is massive—literally the size of several football fields.
+We visited **Horseshoe Bend** (very crowded with a "mid" view) and then went "alien hunting" at the **Meteor Crater**. It was created thousands of years ago and is the best preserved meteor crater in the world. It is massive—literally the size of several football fields.
 
 <div style="text-align: center;">
   <img src="/images/Zion/10.jpeg" alt="Meteor Crater" width="100%" />
