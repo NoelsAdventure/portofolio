@@ -31,3 +31,34 @@ const { title, description, pubDate, minutesRead, url } = Astro.props;
     </article>
   </main>
 </BasicLayout>
+
+<style is:global>
+  /* This targets the gallery div in your .md file */
+  .three-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin: 2rem 0;
+  }
+
+  /* This makes images responsive: 3 across on desktop, 2 on mobile */
+  .three-gallery img {
+    border-radius: 8px;
+    object-fit: cover;
+    height: 200px; /* Optional: keeps all gallery images the same height */
+    width: calc(33.33% - 10px) !important; /* Forces 3-column */
+  }
+
+  @media (max-width: 768px) {
+    .three-gallery img {
+      width: calc(50% - 10px) !important; /* Forces 2-column on mobile */
+    }
+  }
+
+  /* Helper for your centered images */
+  .center-img {
+    text-align: center;
+    margin: 2rem 0;
+  }
+</style>
