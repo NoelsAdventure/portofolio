@@ -7,7 +7,7 @@ draft: false
 ---
 
 <div style="text-align: center;">
-  <img src="/images/Zion/T.jpeg" alt="Buc-ee's and Texas stops" width="100%" />
+  <img src="/images/Zion/B.jpeg" alt="Buc-ee's and Texas stops" width="100%" />
 </div>
 ## 3000 Miles on 6 days?? Letsgo!!
 
@@ -77,15 +77,17 @@ On the last day, we drove south to **Carlsbad Caverns**. It was absolutely mesme
 
 ### Expedition Gallery
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
-  <img src="\images\Zion\D.jpeg" alt="Bokan Kepulauan Expedition 1" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\4.jpeg" alt="Bokan Kepulauan Expedition 2" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\K.jpeg" alt="Bokan Kepulauan Expedition 3" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\K.jpeg" alt="Bokan Kepulauan Expedition 4" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\J.jpeg" alt="Bokan Kepulauan Expedition 6" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\12.jpeg" alt="Bokan Kepulauan Expedition 7" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\L.jpeg" alt="Bokan Kepulauan Expedition 8" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\X.jpeg" alt="Bokan Kepulauan Expedition 9" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\D.webp" alt="Bokan Kepulauan Expedition 1" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\4.webp" alt="Bokan Kepulauan Expedition 2" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\K.webp" alt="Bokan Kepulauan Expedition 3" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\K.webp" alt="Bokan Kepulauan Expedition 4" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\J.webp" alt="Bokan Kepulauan Expedition 6" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\12.webp" alt="Bokan Kepulauan Expedition 7" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\L.webp" alt="Bokan Kepulauan Expedition 8" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\X.webp" alt="Bokan Kepulauan Expedition 9" width="200" style="border-radius: 8px;" />
   <img src="\images\Zion\Z.jpeg" alt="Bokan Kepulauan Expedition 10" width="200" style="border-radius: 8px;" />
 </div>
 
-<img src="\images\Bokan-Kepulauan\B.jpeg" alt="Training at Bokan Kepulauan" width="100%" />
+<div style="text-align: center;">
+  <img src="/images/Zion/T.jpeg" alt="Buc-ee's and Texas stops" width="100%" />
+</div>
