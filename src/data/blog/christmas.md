@@ -13,19 +13,20 @@ draft: false
 
 My first USA road trip started on Christmas Day. Our first stop was **Buc-ee's**, which has been on my wishlist for a long time. We tried the "all you can eat" approach, but I think we ended up eating the same portion as normal because everything is just bigger in Texas!
 
-<div class="grid grid-cols-3 gap-2 my-4">
+
+
+<div class="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
   <img src="/images/Zion/V.jpeg" alt="Christmas Day" class="rounded-lg object-cover aspect-square" />
   <img src="/images/Zion/X.jpeg" alt="Buc-ees Statue" class="rounded-lg object-cover aspect-square" />
   <img src="/images/Zion/W.jpeg" alt="Texas Giant Bull" class="rounded-lg object-cover aspect-square" />
 </div>
-<p class="text-sm text-gray-400 italic text-center">3000 miles in 6 days?? letsgo!!</p>
 
 ---
 
 ### Route 66 and the Casino Night
 Another wishlist item checked: **Route 66**. We spent the night at a casino in Gallup, where we managed to turn $4 into $0.25. We ended up sleeping in the car on a freezing night to save time for the drive ahead.
 
-<div class="grid grid-cols-3 gap-2 my-4">
+<div class="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;4">
   <img src="/images/Zion/R.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
   <img src="/images/Zion/S.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
   <img src="/images/Zion/watchman-trail.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
@@ -41,7 +42,7 @@ Finally, we arrived at **Zion National Park**. Our first hike was the Canyon Ove
 
 We set up our tent at the **Watchman Campground** and chased the sunset at the Watchman Trail. Our diet consisted mostly of hotdogs and macaroni and cheese (until Indira couldn't take it anymore!). At night, the sky was so clear we could see the stars with our naked eyes.
 
-<div class="grid grid-cols-3 gap-2 my-4">
+<div class="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
   <img src="/images/Zion/P.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
   <img src="/images/Zion/9.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
   <img src="/images/Zion/1.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
@@ -49,7 +50,7 @@ We set up our tent at the **Watchman Campground** and chased the sunset at the W
 
 On the second day, we hiked The Narrows and headed toward Angel's Landing. We didn't get the permit to go to the very top, but we were welcomed by a beautiful rainbow and picked up some souvenirs.
 
-<div class="grid grid-cols-3 gap-2 my-4">
+<div class="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
   <img src="/images/Zion/8.jpeg" alt="Watchman Campground" class="rounded-lg object-cover aspect-[3/4]" />
   <img src="/images/Zion/F.jpeg" alt="Night Sky" class="rounded-lg object-cover aspect-[3/4]" />
   <img src="/images/Zion/H.jpeg" alt="Watchman Trail" class="rounded-lg object-cover aspect-[3/4]" />
@@ -77,14 +78,14 @@ On the last day, we drove south to **Carlsbad Caverns**. It was absolutely mesme
 
 ### Expedition Gallery
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 1rem;">
-  <img src="\images\Zion\D.webp" alt="Bokan Kepulauan Expedition 1" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\4.webp" alt="Bokan Kepulauan Expedition 2" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\K.webp" alt="Bokan Kepulauan Expedition 3" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\K.webp" alt="Bokan Kepulauan Expedition 4" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\J.webp" alt="Bokan Kepulauan Expedition 6" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\12.webp" alt="Bokan Kepulauan Expedition 7" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\L.webp" alt="Bokan Kepulauan Expedition 8" width="200" style="border-radius: 8px;" />
-  <img src="\images\Zion\X.webp" alt="Bokan Kepulauan Expedition 9" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\D.jpeg" alt="Bokan Kepulauan Expedition 1" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\4.jpeg" alt="Bokan Kepulauan Expedition 2" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\K.jpeg" alt="Bokan Kepulauan Expedition 3" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\K.jpeg" alt="Bokan Kepulauan Expedition 4" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\J.jpeg" alt="Bokan Kepulauan Expedition 6" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\12.jpeg" alt="Bokan Kepulauan Expedition 7" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\L.jpeg" alt="Bokan Kepulauan Expedition 8" width="200" style="border-radius: 8px;" />
+  <img src="\images\Zion\X.jpeg" alt="Bokan Kepulauan Expedition 9" width="200" style="border-radius: 8px;" />
   <img src="\images\Zion\Z.jpeg" alt="Bokan Kepulauan Expedition 10" width="200" style="border-radius: 8px;" />
 </div>
 
