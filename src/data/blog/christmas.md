@@ -37,7 +37,7 @@ Another wishlist item checked: **Route 66**. We spent the night at a casino in G
 Finally, we arrived at **Zion National Park**. Our first hike was the Canyon Overlook. The views were incredible despite the misty weather.
 
 <div class="center-image">
-  <img src="/images/Zion/E.jpeg" alt="Zion National Park" width="80%" style="border-radius: 8px;" />
+  <img src="/images/Zion/E.jpeg" alt="Zion National Park" width="100%" style="border-radius: 8px;" />
 </div>
 
 We set up our tent at the **Watchman Campground** and chased the sunset at the Watchman Trail. Our diet consisted mostly of hotdogs and macaroni and cheese (until Indira couldn't take it anymore!). At night, the sky was so clear we could see the stars with our naked eyes.
@@ -71,7 +71,7 @@ We visited **Horseshoe Bend** (very crowded with a "mid" view) and then went "al
 On the last day, we drove south to **Carlsbad Caverns**. It was absolutely mesmerizing. The temperature inside is a constant 12°C, and the stalactites and stalagmites are unbelievable.
 
 <div class="center-image">
-  <img src="/images/Zion/N.jpeg" alt="Carlsbad Caverns" width="80%" style="border-radius: 8px;" />
+  <img src="/images/Zion/N.jpeg" alt="Carlsbad Caverns" width="100%" style="border-radius: 8px;" />
 </div>
 
 ---
