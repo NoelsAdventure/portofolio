@@ -21,43 +21,79 @@ import Card from "./Card/index.astro";
       </p>
     </div>
 
+<Card colSpan="md:col-span-1" rowSpan="md:row-span-6" title="About me">
+  <div class="flex flex-col gap-4 h-full">
+    <div class="flex flex-col gap-2">
+      </div>
+
     <div class="relative w-full group">
-      <div 
-        id="photo-slider"
-        class="flex overflow-x-auto snap-x snap-mandatory scrollbar-hide gap-0 rounded-lg aspect-[4/3]"
-      >
-        <div class="relative min-w-full snap-center bg-gray-800">
-          <img src="/images/Best Photos/1.webp" alt="Clownfish and its anemone" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-4 pt-10 text-white text-sm font-medium">
-            Clownfish chilling in its anemone
+      <div class="flex items-center justify-between p-4 pb-2 z-20 relative">
+        <button class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-950 border border-white/10 text-white z-20 group-hover:opacity-100 transition-opacity">
+          <span class="text-lg">‹</span> </button>
+        <div class="text-sm font-light italic text-white flex-1 text-center px-4">My proudest photos</div>
+        <button class="w-10 h-10 flex items-center justify-center rounded-full bg-gray-950 border border-white/10 text-white z-20 group-hover:opacity-100 transition-opacity">
+          <span class="text-lg">›</span> </button>
+      </div>
+
+      <div id="photo-slider" class="flex overflow-x-auto snap-x snap-mandatory scrollbar-hide gap-0 rounded-lg aspect-[4/3] w-full">
+        <div class="relative min-w-full snap-center bg-gray-800 overflow-hidden">
+          <div class="relative w-full aspect-[4/3]">
+            <img src="/images/Best Photos/1.webp" alt="Clownfish and its anemone" class="w-full h-full object-cover pointer-events-none" />
+          </div>
+          <div class="relative w-full z-10 bg-black p-2 pt-1"> <div class="absolute top-0 left-0 w-full h-[6px] bg-gradient-to-t from-black to-transparent z-10"></div>
+            <p class="text-xs font-medium text-white z-0">
+              Clownfish chilling in its anemone
+            </p>
           </div>
         </div>
-        <div class="relative min-w-full snap-center bg-gray-800">
-          <img src="/images/Best Photos/2.webp" alt="Green turtle" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-4 pt-10 text-white text-sm font-medium">
-            A not-so-'Green' sea turtle
+        <div class="relative min-w-full snap-center bg-gray-800 overflow-hidden">
+          <div class="relative w-full aspect-[4/3]">
+            <img src="/images/Best Photos/2.webp" alt="Green turtle" class="w-full h-full object-cover pointer-events-none" />
+          </div>
+          <div class="relative w-full z-10 bg-black p-2 pt-1">
+            <div class="absolute top-0 left-0 w-full h-[6px] bg-gradient-to-t from-black to-transparent z-10"></div>
+            <p class="text-xs font-medium text-white z-0">
+              A not-so-'Green' sea turtle
+            </p>
           </div>
         </div>
-        <div class="relative min-w-full snap-center bg-gray-800">
-          <img src="/images/Best Photos/3.webp" alt="Camouflaging lionfish" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-4 pt-10 text-white text-sm font-medium">
-            A camouflaging lionfish
+        <div class="relative min-w-full snap-center bg-gray-800 overflow-hidden">
+          <div class="relative w-full aspect-[4/3]">
+            <img src="/images/Best Photos/3.webp" alt="Camouflaging lionfish" class="w-full h-full object-cover pointer-events-none" />
+          </div>
+          <div class="relative w-full z-10 bg-black p-2 pt-1">
+            <div class="absolute top-0 left-0 w-full h-[6px] bg-gradient-to-t from-black to-transparent z-10"></div>
+            <p class="text-xs font-medium text-white z-0">
+              A camouflaging lionfish
+            </p>
           </div>
         </div>
-        <div class="relative min-w-full snap-center bg-gray-800">
-          <img src="/images/Best Photos/4.webp" alt="My diving buddy" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-4 pt-10 text-white text-sm font-medium">
-            My diving buddy
+        <div class="relative min-w-full snap-center bg-gray-800 overflow-hidden">
+          <div class="relative w-full aspect-[4/3]">
+            <img src="/images/Best Photos/4.webp" alt="My diving buddy" class="w-full h-full object-cover pointer-events-none" />
+          </div>
+          <div class="relative w-full z-10 bg-black p-2 pt-1">
+            <div class="absolute top-0 left-0 w-full h-[6px] bg-gradient-to-t from-black to-transparent z-10"></div>
+            <p class="text-xs font-medium text-white z-0">
+              My diving buddy
+            </p>
           </div>
         </div>
-        <div class="relative min-w-full snap-center bg-gray-800">
-          <img src="/images/Best Photos/5.webp" alt="Coral triangle" class="w-full h-full object-cover pointer-events-none" />
-          <div class="absolute bottom-0 left-0 w-full bg-gradient-to-t from-black/80 to-transparent p-4 pt-10 text-white text-sm font-medium">
-            The vibrant Coral Triangle
+        <div class="relative min-w-full snap-center bg-gray-800 overflow-hidden">
+          <div class="relative w-full aspect-[4/3]">
+            <img src="/images/Best Photos/5.webp" alt="Coral triangle" class="w-full h-full object-cover pointer-events-none" />
+          </div>
+          <div class="relative w-full z-10 bg-black p-2 pt-1">
+            <div class="absolute top-0 left-0 w-full h-[6px] bg-gradient-to-t from-black to-transparent z-10"></div>
+            <p class="text-xs font-medium text-white z-0">
+              The vibrant Coral Triangle
+            </p>
           </div>
         </div>
       </div>
     </div>
+  </div>
+</Card>
 
       <button 
         id="prev-btn"
